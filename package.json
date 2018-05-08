@@ -1,0 +1,27 @@
+{
+  "name": "cxpmaturitymodel",
+  "version": "1.0.0",
+  "description": "CXP Maturity Model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkelleyAnex/maturityModel.git"
+  },
+  "keywords": [
+    "api",
+    "maturity",
+    "model"
+  ],
+  "author": "Dan Kelley",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dkelleyAnex/maturityModel/issues"
+  },
+  "homepage": "https://github.com/dkelleyAnex/maturityModel#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
